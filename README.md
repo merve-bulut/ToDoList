@@ -12,11 +12,11 @@ With this app, you can:
 3. Start adding and managing your tasks!  
 
 ## 📸 Screenshots
-/Users/mervebulut/Desktop/01.png
-/Users/mervebulut/Desktop/02.png
-/Users/mervebulut/Desktop/03.png
-/Users/mervebulut/Desktop/04.png
-/Users/mervebulut/Desktop/05.png
+(01.png)
+(02.png)
+(03.png)
+(04.png)
+(05.png)
 
 ## 🛠 Technologies Used
 - SwiftUI  
