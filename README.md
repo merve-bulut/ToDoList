@@ -13,10 +13,9 @@ With this app, you can:
 
 ## 📸 Screenshots
 ![Home Screen](01.png)
-(02.png)
-(03.png)
-(04.png)
-(05.png)
+![Delete Screen](03.png)
+![Delete Screen](04.png)
+![Delete Screen](05.png)
 
 ## 🛠 Technologies Used
 - SwiftUI  
