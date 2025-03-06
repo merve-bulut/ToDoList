@@ -12,14 +12,11 @@ With this app, you can:
 3. Start adding and managing your tasks!  
 
 ## 📸 Screenshots
-<<<<<<< HEAD
-(01.png)
+![Home Screen](01.png)
 (02.png)
 (03.png)
 (04.png)
 (05.png)
-=======
->>>>>>> c2e6d1820df72c19c109490ad745b90b8b63fe2b
 
 ## 🛠 Technologies Used
 - SwiftUI  
